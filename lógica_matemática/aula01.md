@@ -71,7 +71,8 @@ _Como representar preposições compostas?_
 3. **Condicional:** `P -> Q` -> (Se P, então, Q)
    1. Se **P** for verdadeiro e **Q** for falso, a preposição é falsa!
    2. Se **P** for falso e **Q** for verdadeiro, a preposição é verdadeira!
-   3. Se **P** for falso e **Q** for falso, a preposição é falsa!
+   3. Se **P** for falso e **Q** for falso, a preposição é verdadeira!
+   4. Se **P** for verdadeiro e **Q** for verdadeiro, a preposição é verdadeira!
 4. **Bicondicional:** `P <=> Q` -> (P se, e somente se Q)
    - Se P e Q forem falsos, a preposição é verdadeira!
    - Se P e Q forem verdadeiros, a preposição é verdadeira!
